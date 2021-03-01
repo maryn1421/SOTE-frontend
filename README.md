@@ -3,6 +3,21 @@
 
 <h3 align="center">SOTE Katalogus</h3>
 
+Maryn Zolnai's notes (this is not in the "official readme")
+
+About the project: 
+
+The Sote gyermekklinika contacted the CodeCool the help them to increase the speed of the attendance, and get statistics easily about the classes and students with a webapp.
+The project is made during an IRL coding challenge (3 weeks long real developer environment simulation).
+Our team: 3 project managers, 1 automation tester, 2 short backend java course guys and two from the full stack course (including me).
+
+3 weeks, 3 sprints: 
+ 
+ 1.sprint: Planning, consultations with the product owner, drawing the wireframes in figma and making a  task table in jira.
+ 2.sprint: Created the base of both of repos without authentication.
+ 3.sprint: Finished project, with some bugs.
+ 4. unofficial sprint:  fixed issues, bugs.
+
 
 
 <!-- TABLE OF CONTENTS -->
